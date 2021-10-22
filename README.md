@@ -1,5 +1,5 @@
 # <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> React boilerplate
-My boilerplate for react with configurated styled-components for CSS in JS. Eslint & Prettier for code analysis and format. Husky & lint-staged for run prettier before commit. An absolute import for src folder in default.
+My boilerplate for react with configurated styled-components for CSS in JS. ESlint & Prettier for code analysis and format. Husky & lint-staged for run prettier before commit. An absolute import for src folder in default.
 
 ## :floppy_disk: Installation:
 Clone this repository and install by typing:
