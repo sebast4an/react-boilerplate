@@ -11,7 +11,7 @@ npm i
 
 Development server:
 ``` bash
-npm serve
+npm start
 ```
 
 Format all files by prettier:
